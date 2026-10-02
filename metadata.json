@@ -1,0 +1,6 @@
+{
+  "name": "3D Parking Master",
+  "description": "Realistic 3D car parking simulator with 100 levels, customizable garage, realistic vehicle physics, and multilingual support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
